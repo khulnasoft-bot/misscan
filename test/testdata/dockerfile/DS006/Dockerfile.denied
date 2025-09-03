@@ -1,4 +1,4 @@
-FROM golang:1.7.3 as dep
+FROM golang:1.25.1 as dep
 COPY --from=dep /binary /
 
 FROM alpine:3.13

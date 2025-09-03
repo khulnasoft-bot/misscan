@@ -1,4 +1,4 @@
-FROM golang:1.7.3
+FROM golang:1.25.1
 USER mike
 CMD ./apps
 FROM alpine:3.13
