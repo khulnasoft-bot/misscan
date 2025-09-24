@@ -8,7 +8,7 @@ require (
 	github.com/alecthomas/chroma v0.10.0
 	github.com/antchfx/htmlquery v1.3.4
 	github.com/google/uuid v1.6.0
-	github.com/hashicorp/hcl/v2 v2.23.0
+	github.com/hashicorp/hcl/v2 v2.24.0
 	github.com/khulnasoft-lab/tunnel-audit v0.0.0-20250608095859-7e4d77c0a36e
 	github.com/liamg/iamgo v0.0.9
 	github.com/liamg/memoryfs v1.6.0
@@ -17,7 +17,7 @@ require (
 	github.com/owenrumney/squealer v1.2.11
 	github.com/spf13/cobra v1.9.1
 	github.com/stretchr/testify v1.10.0
-	github.com/zclconf/go-cty v1.13.0
+	github.com/zclconf/go-cty v1.16.3
 	golang.org/x/net v0.41.0
 	golang.org/x/sync v0.15.0
 	golang.org/x/text v0.26.0
@@ -32,7 +32,6 @@ require (
 	github.com/agext/levenshtein v1.2.3 // indirect
 	github.com/agnivade/levenshtein v1.1.1 // indirect
 	github.com/antchfx/xpath v1.3.3 // indirect
-	github.com/apparentlymart/go-textseg/v13 v13.0.0 // indirect
 	github.com/apparentlymart/go-textseg/v15 v15.0.0 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
