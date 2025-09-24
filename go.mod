@@ -1,6 +1,6 @@
 module github.com/khulnasoft-lab/misscan
 
-go 1.23.0
+go 1.24.0
 
 toolchain go1.24.3
 
@@ -19,7 +19,7 @@ require (
 	github.com/stretchr/testify v1.10.0
 	github.com/zclconf/go-cty v1.16.3
 	golang.org/x/net v0.41.0
-	golang.org/x/sync v0.15.0
+	golang.org/x/sync v0.17.0
 	golang.org/x/text v0.26.0
 	gopkg.in/yaml.v3 v3.0.1
 )
