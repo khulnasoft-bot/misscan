@@ -1,6 +1,6 @@
 module github.com/khulnasoft-lab/misscan
 
-go 1.25.0
+go 1.26.0
 
 require (
 	github.com/alecthomas/chroma v0.10.0
@@ -11,7 +11,7 @@ require (
 	github.com/liamg/iamgo v0.0.9
 	github.com/liamg/memoryfs v1.6.0
 	github.com/mitchellh/mapstructure v1.5.0
-	github.com/open-policy-agent/opa v1.19.1
+	github.com/open-policy-agent/opa v1.20.1
 	github.com/owenrumney/squealer v1.2.12
 	github.com/spf13/cobra v1.10.2
 	github.com/stretchr/testify v1.12.1
