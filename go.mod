@@ -4,7 +4,7 @@ go 1.26.0
 
 require (
 	github.com/alecthomas/chroma v0.10.0
-	github.com/antchfx/htmlquery v1.3.6
+	github.com/antchfx/htmlquery v1.3.7
 	github.com/google/uuid v1.6.0
 	github.com/hashicorp/hcl/v2 v2.25.0
 	github.com/khulnasoft-lab/tunnel-audit v0.0.0-20250608095859-7e4d77c0a36e
@@ -28,7 +28,7 @@ require (
 	github.com/ProtonMail/go-crypto v1.1.6 // indirect
 	github.com/agext/levenshtein v1.2.3 // indirect
 	github.com/agnivade/levenshtein v1.2.1 // indirect
-	github.com/antchfx/xpath v1.3.6 // indirect
+	github.com/antchfx/xpath v1.3.9 // indirect
 	github.com/apparentlymart/go-textseg/v15 v15.0.0 // indirect
 	github.com/apparentlymart/go-textseg/v17 v17.0.1 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
